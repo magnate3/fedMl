@@ -4,7 +4,9 @@ class FedMLMqttInference:
 ```
 
 ```
-inference_utils.model_partition or   inference model_partition or class ModelPartitioner
+inference_utils.model_partition or   inference model_partition or class ModelPartitioner or
+model_partition AlexNet  ResNet LeNet   EdgeOrchestrator  EdgeDevice CloudDevice EdgeDevice  EdgeServer
+"EdgeDevice EdgeServer "
 ```
 【协同DNN推理】2017，DDNN，distributed DNN on device, edge and cloud   
 
@@ -22,3 +24,9 @@ inference_utils.model_partition or   inference model_partition or class ModelPar
 
 
 [adaptive-edge-computing-framework端云协同 ](https://github.com/cloudNativeAiops/adaptive-edge-computing-framework/blob/main/src/core/task_scheduler.py)   
+  
+[FedLLM: Build Your Own Large Language Models on Proprietary Data using the FedML Platform](https://github.com/ZongHR/FedGTS/tree/5520544f533d0e3f42ad8219c34e1c3cb54649af/python/spotlight_prj/fedllm)   
+
+[python-p2p-network框架]()
+
+[VATE: Edge-Cloud System for Object Detection in Real-Time Video Streams](https://github.com/m-maresch/vate/tree/main)
