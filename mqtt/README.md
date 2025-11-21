@@ -8,13 +8,21 @@ inference_utils.model_partition or   inference model_partition or class ModelPar
 model_partition AlexNet  ResNet LeNet   EdgeOrchestrator  EdgeDevice CloudDevice EdgeDevice  EdgeServer
 "EdgeDevice EdgeServer "  "cloud-edge-device collaborative DNN inference" "Cloud-Edge Collaborative Inference"
 "InferenceRequest" " asyncio.Queue 、asyncio.gather、 asyncio.get_event_loop 、 asyncio.Task.all_tasks"
+"Neurosurgeon、Edgent和AdaComp"
 ```
 【协同DNN推理】2017，DDNN，distributed DNN on device, edge and cloud   
 
 [DADS端云协同](https://github.com/Tjyy-1223/DADS/tree/ddc709d75cf25ae30977fa888553114e17aa9260)    
 [Tjyy-1223Neurosurgeon端云协同](https://github.com/Tjyy-1223/Neurosurgeon/tree/0f352d82a3b3e0951a5a72a5a7ea2aa605605d43)
 
-[wslwy/Neurosurgeon](https://github.com/wslwy/Neurosurgeon/tree/main)
+[wslwy/Neurosurgeon](https://github.com/wslwy/Neurosurgeon/tree/main)    
+
+
+[Autodidactic Neurosurgeon Collaborative Deep Inference for Mobile Edge Intelligence via Online Learning](https://github.com/letian-zhang/ANS/blob/main/client_camera_main.py)
+
+[Edge-Intelligence/卷积神经网络协同推断仿真系统](https://github.com/wyc941012/Edge-Intelligence)   
+
+[Shrink models、Distill sub-models、Ensemble](https://github.com/falcon-xu/DeViT)   
 
 [On the impact of deep neural network calibration on adaptive edge offloading](https://github.com/pachecobeto95/early_exit_calibration/tree/main)   
 
