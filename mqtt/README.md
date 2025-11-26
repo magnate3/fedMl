@@ -10,6 +10,11 @@ model_partition AlexNet  ResNet LeNet   EdgeOrchestrator  EdgeDevice CloudDevice
 "InferenceRequest" " asyncio.Queue 、asyncio.gather、 asyncio.get_event_loop 、 asyncio.Task.all_tasks"
 "Neurosurgeon、Edgent和AdaComp"
 ```
+
+```
+MobiledgeX Edge-Cloud 
+```
+
 【协同DNN推理】2017，DDNN，distributed DNN on device, edge and cloud   
 
 [DADS端云协同](https://github.com/Tjyy-1223/DADS/tree/ddc709d75cf25ae30977fa888553114e17aa9260)    
